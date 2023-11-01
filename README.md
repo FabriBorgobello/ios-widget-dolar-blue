@@ -27,4 +27,7 @@ Install the [Scriptable](https://scriptable.app/) app on your iOS device.
 2. Tap the plus icon in the top right corner.
 3. Copy the contents of the `dist/index.js` file into the script editor.
 
+## Demo
+<img src="https://github.com/FabriBorgobello/ios-widget-dolar-blue/blob/main/public/example.jpeg?raw=true" alt="Scriptable demo image" width="200" height="200"/>
+
 Enjoy!
