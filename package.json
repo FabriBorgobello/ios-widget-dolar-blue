@@ -1,0 +1,17 @@
+{
+  "name": "ios-widget-ars-usd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/scriptable-ios": "^1.7.3",
+    "typescript": "^5.2.2"
+  }
+}
